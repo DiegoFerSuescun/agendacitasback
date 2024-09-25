@@ -17,5 +17,5 @@ sequelize.sync().then(() => console.log("Conectado a la base de datos"))
 
     
 app.listen(PORT, () => {
-    console.log(`Servidor corriendo en el puerto ${PORT}`);
+    console.log(`Servidor corriendo en el puerto  ${PORT}`);
 });
